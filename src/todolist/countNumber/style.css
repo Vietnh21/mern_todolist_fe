@@ -1,0 +1,12 @@
+.counter {
+  width: 10%;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+.counter span {
+  font-size: 20px;
+}
+.btc-back {
+}

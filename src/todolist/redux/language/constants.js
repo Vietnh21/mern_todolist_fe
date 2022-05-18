@@ -1,0 +1,5 @@
+const LANGUAGE = "LANGUAGE";
+
+const SET_LANGUAGE = `${LANGUAGE}/setLANGUAGE`;
+
+export { SET_LANGUAGE };

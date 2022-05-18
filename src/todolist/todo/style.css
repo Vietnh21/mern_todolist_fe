@@ -1,0 +1,26 @@
+.listToDo-Container {
+  padding-top: 30px;
+  width: 30%;
+  height: 70%;
+  margin: auto;
+  margin-top: 80px;
+  background-color: #b0beff;
+  text-align: center;
+}
+.todo-content {
+  padding: 20px 0;
+}
+.btn-edit {
+  margin: 0 10px;
+}
+.translate {
+  margin-top: 40px;
+  margin-left: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+.LogOut {
+}
+.count-number {
+  margin-left: 20px;
+}
